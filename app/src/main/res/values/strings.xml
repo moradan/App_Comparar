@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">App Comparar</string>
+    <string name="texto_1">texto 1</string>
+    <string name="texto_2">texto 2</string>
+    <string name="etiqueta_comparar">comparar</string>
 </resources>
