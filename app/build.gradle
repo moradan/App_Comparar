@@ -10,6 +10,7 @@ android {
     defaultConfig {
         applicationId "com.curso.android.app.appcomparar"
         minSdk 21
+        //noinspection OldTargetApi
         targetSdk 32
         versionCode 1
         versionName "1.0"
